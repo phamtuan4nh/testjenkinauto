@@ -19,5 +19,10 @@ pipeline {
                 echo 'Buoc 3'
             }
         }
+        stage('B4') {
+            steps {
+                echo 'Buoc 3'
+            }
+        }
     }
 }
