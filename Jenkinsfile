@@ -21,7 +21,7 @@ pipeline {
         }
         stage('B4') {
             steps {
-                echo 'Buoc 3'
+                echo 'Buoc 4'
             }
         }
     }
